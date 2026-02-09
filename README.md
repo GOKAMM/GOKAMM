@@ -27,4 +27,4 @@ Ce profil est mon **laboratoire d'apprentissage**. Il se remplit progressivement
 ---
 
 ### 🔥 Mon activité
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GOKAMM&theme=radical&locale=fr)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GOKAMM&theme=radical&locale=fr&refresh=1)
