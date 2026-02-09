@@ -27,6 +27,5 @@ Ce profil est mon **laboratoire d'apprentissage**. Il se remplit progressivement
 ---
 
 ### 📊 Mes statistiques GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=GOKAMM&show_icons=true&locale=fr&theme=radical" alt="Stats" />
-</p>
+
+![Stats de GOKAMM](https://github-readme-stats.vercel.app/api?username=GOKAMM&show_icons=true&locale=fr&theme=radical)
